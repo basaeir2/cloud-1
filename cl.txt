@@ -2,6 +2,12 @@
  main
    {
 
+
+      int x,y,z;
+     cout <<" my project ";
+     cin>>"x= ";
+      cout<<"x=  "<<x;
+
      int x,y,z;
      cout <<" x= ";
      cin>>x;
@@ -11,5 +17,6 @@
 
      z=x+y;
      cout<<" the sumation of two number is "<<z;
+
      getch();
    }
