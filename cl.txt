@@ -15,7 +15,7 @@
      cout<<"y=  ";
      cin>>y;
 
-     z=x+y;
+    
      cout<<" the sumation of two number is "<<z;
 
      
