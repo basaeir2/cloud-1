@@ -2,7 +2,9 @@
  main
    {
 
-
+      int x,y,z;
      cout <<" my project ";
+     cin>>"x= ";
+      cout<<"x=  "<<x;
      getch();
    }
