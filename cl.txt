@@ -18,5 +18,5 @@
      z=x+y;
      cout<<" the sumation of two number is "<<z;
 
-     getch();
+     
    }
